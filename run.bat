@@ -1,0 +1,1 @@
+dotnet RobotWars.CLI\bin\Debug\netcoreapp2.2\RobotWars.CLI.dll
